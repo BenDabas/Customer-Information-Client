@@ -1,0 +1,17 @@
+.welcome-wrapper {
+	/* align-self: center; */
+	position: relative;
+}
+
+.background {
+	background-image: url('../../Assets/Images/11-1.jpg');
+	height: 600px;
+	width: 1024px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 'center';
+}
+
+.text {
+	font-family: 'Open Sans', sans-serif;
+}

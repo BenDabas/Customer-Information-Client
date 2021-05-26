@@ -1,0 +1,18 @@
+.search-customer-header {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.search-customer-text {
+	font-size: 45px;
+}
+
+.search-button {
+	display: flex;
+	align-self: end;
+	margin: 15px 15px;
+}
+
+.search-customer-wrapper{
+	margin-bottom: 100px;
+	padding-bottom: 195px;
+}

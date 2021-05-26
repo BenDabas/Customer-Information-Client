@@ -1,0 +1,23 @@
+.App {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	overflow: visible;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.welcome-page {
+	/* align-self: center; */
+}
+
+.customer-information {
+	position: relative;
+	top: 165px;
+}
+
+.search-customer {
+	position: relative;
+	top: 680px;
+}

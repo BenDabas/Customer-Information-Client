@@ -1,0 +1,26 @@
+.row1 {
+	left: 21px;
+	color: red;
+}
+
+.input {
+	width: 240px;
+	height: 60px;
+	font-size: 30px;
+	direction: rtl;
+}
+
+.details {
+	flex-direction: row;
+	position: relative;
+	top: 102px;
+	padding: 18px;
+}
+
+.label {
+	padding: 25px;
+	font-size: 45px;
+}
+
+.customer-information-wrapper {
+}

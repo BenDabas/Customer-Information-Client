@@ -1,0 +1,35 @@
+.sidebar-wrapper {
+	height: 100%;
+	width: 12%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0px;
+	/* border: 3px solid black; */
+	/* background-color: rgb(240, 118, 118); */
+	transition: 0.5s ease;
+	overflow-x: hidden;
+	padding-top: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	cursor: pointer;
+}
+
+.link {
+	background-color: #f44336;
+	width: 62px;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: large;
+	padding: 27px;
+	border: black;
+	font-family: 'Open Sans', sans-serif;
+}
+a:hover,
+a:active {
+	background-color: red;
+}

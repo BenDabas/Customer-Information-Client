@@ -1,0 +1,49 @@
+.text {
+	font-family: 'Open Sans', sans-serif;
+	padding: 40px;
+}
+
+/* .details {
+	flex-direction: row;
+	position: relative;
+	top: 102px;
+	padding: 18px;
+}
+
+.label {
+	padding: 90px;
+	font-size: 45px;
+} */
+
+.customer-information-wrapper {
+}
+
+/* .row1 {
+	left: 21px;
+	color: red;
+}
+
+.input {
+	width: 240px;
+	height: 60px;
+	font-size: 30px;
+	direction: rtl;
+} */
+
+.row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.save-button {
+	height: 45px;
+	width: 150px;
+	position: absolute;
+	/* top: 550px; */
+	top: 600px;
+	left: 70px;
+	padding: 10px;
+	font-size: 30px;
+}
